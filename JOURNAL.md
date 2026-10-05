@@ -23,6 +23,10 @@
 **0.58h**
 
 05/10/2026
-started the pcb as per to the guide but i decided
+started the pcb as per to the guide but i decided to not use two button i used one and i was thinking of adding a backup if the motion sensor goes wrong. I ran into a problem idk what it means though error in pcb well will continue tomorrow.
+
+![Screenshot 2026-10-05 150037](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MZD6tvnEbef8ERT2xRKe9ziQifXMirW8/d5e534af20f4564a02219f77de2dae5ec6f7d7801aa3e00da45bd5fcd93c2232.png)
+
+![Screenshot 2026-10-05 150045](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MZD6tvnEbef8ERT2xRKe9ziQifXMirW8/2c18f3357a6d9b2d074de49a54eabef15b65f22f9567579b2b144e3c81eca3ff.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/4ffb18c4-99f8-4eb3-b993-e2f08c9babd4/video.mp4)
