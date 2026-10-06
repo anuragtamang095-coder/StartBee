@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — 05/10/2026](#2026-10-05-05102026)
-2. [2026-10-06 — Work session](#2026-10-06-work-session)
+2. [2026-10-06 — 06/10/2026](#2026-10-06-06102026)
 
 ## Design
 
@@ -32,8 +32,15 @@ started the pcb as per to the guide but i decided to not use two button i used o
 
 [Timelapse](https://lookout.hackclub.com/api/media/4ffb18c4-99f8-4eb3-b993-e2f08c9babd4/video.mp4)
 
-### 2026-10-06 — Work session
+### 2026-10-06 — 06/10/2026
 
 **1.02h**
+
+06/10/2026
+
+![Screenshot 2026-10-06 192728](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MZD6tvnEbef8ERT2xRKe9ziQifXMirW8/baf7748daeb7585c2589fef3c05e779546066f2d84d7675fb194f944d1097c7f.png)
+
+![Screenshot 2026-10-06 194006](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MZD6tvnEbef8ERT2xRKe9ziQifXMirW8/d08563024a5b97057c23d372e169bcfdda757af8cc49c1c9d1584f3597174b8b.png)
+worked on designing the pcb design is done i hope it doesn't give me trouble and i got footer error next day gotta solve that..
 
 [Timelapse](https://lookout.hackclub.com/api/media/76c97670-de72-4ce8-9e04-ee3e941d2fba/video.mp4)
