@@ -16,7 +16,7 @@
 
 1. [2026-10-05 — 05/10/2026](#2026-10-05-05102026)
 2. [2026-10-06 — 06/10/2026](#2026-10-06-06102026)
-3. [2026-10-07 — Work session](#2026-10-07-work-session)
+3. [2026-10-07 — 07/10/2026](#2026-10-07-07102026)
 
 ## Design
 
@@ -46,8 +46,16 @@ worked on designing the pcb design is done i hope it doesn't give me trouble and
 
 [Timelapse](https://lookout.hackclub.com/api/media/76c97670-de72-4ce8-9e04-ee3e941d2fba/video.mp4)
 
-### 2026-10-07 — Work session
+### 2026-10-07 — 07/10/2026
 
 **1.18h**
+
+07/10/2026
+did the pcb design made it little better found out that footer error could be ignored..
+added 3d models and stuff
+
+![Screenshot 2026-10-07 144023](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MZD6tvnEbef8ERT2xRKe9ziQifXMirW8/a80d04a4646b993ff7ce062bcb36ebaeb09c3b49a9fa49552d4ea2dbde8a7152.png)
+
+![Screenshot 2026-10-07 144032](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MZD6tvnEbef8ERT2xRKe9ziQifXMirW8/2942418fe6032481df7d348d76ac60c0553026768d27cf9f4b5d0a58586bd870.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/429e1da1-aebc-4014-9dde-329079d73863/video.mp4)
