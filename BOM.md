@@ -21,7 +21,7 @@
 | [10k Resistor](https://robu.in/product/10-ohm-5-watt-wire-wound-resistor/) | — | 1 | $0.18 | $0.18 | [Robu](https://robu.in/product/10-ohm-5-watt-wire-wound-resistor/) |
 | [PCB](https://robu.in/product/online-pcb-manufacturing-service/) | — | 1 | $9.30 | $9.30 | [Robu](https://robu.in/product/online-pcb-manufacturing-service/) |
 | **Parts subtotal** | — | — | — | **$22.70** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.70** | — |
+| **Tax & shipping** | — | — | — | **$2.96** | — |
+| **Total** | — | — | — | **$25.66** | — |
 
-$7.30 left of the tier's funding.
+$4.34 left of the tier's funding.
